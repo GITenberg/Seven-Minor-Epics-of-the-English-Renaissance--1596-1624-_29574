@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '33997'
     url: http://www.gutenberg.org/2009/agents/33997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29574#Seven-Minor-Epics-of-the-English-Renaissance--1596-1624-
 gutenberg_issued: '2009-08-02'
 gutenberg_type: Text
 identifiers:
