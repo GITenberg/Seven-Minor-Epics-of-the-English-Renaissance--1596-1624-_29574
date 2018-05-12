@@ -1,0 +1,53 @@
+_repo: Seven-Minor-Epics-of-the-English-Renaissance--1596-1624-_29574
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Miller, Paul William
+    alias: Miller, Paul W. (Paul William)
+    birthdate: 1926
+    gutenberg_agent_id: '34002'
+    url: http://www.gutenberg.org/2009/agents/34002
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Linche, Richard
+    alias: Lynche, Richard
+    gutenberg_agent_id: '33998'
+    url: http://www.gutenberg.org/2009/agents/33998
+  - agent_name: Barksted, William, active 1611
+    aliases:
+    - Barkstead, William
+    - Barksteed, William
+    gutenberg_agent_id: '33999'
+    url: http://www.gutenberg.org/2009/agents/33999
+  - agent_name: Page, Samuel
+    birthdate: 1574
+    deathdate: 1630
+    gutenberg_agent_id: '34000'
+    url: http://www.gutenberg.org/2009/agents/34000
+  - agent_name: Gale, Dunstan
+    gutenberg_agent_id: '33997'
+    url: http://www.gutenberg.org/2009/agents/33997
+description: ''
+gutenberg_issued: '2009-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29574'
+  lccn: '67010125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renaissance -- England'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PN'
+- !lcsh 'Epic poetry, English'
+tableOfContents: "Philos and Licia (1924) / by Anonymous\r\nPyramus and Thisbe (1617)\
+  \ / by Dunstan Gale\r\nThe love of Dom Diego and Ginevra (1596) / by Richard Lynch\r\
+  \nMirrha (1607) / by William Barksted\r\nHiren (1611) / by William Barksted\r\n\
+  Ames and Laura (1613) / by Samuel Page\r\nThe Scourge of Venus (1613) / by H.A."
+title: Seven Minor Epics of the English Renaissance (1596-1624)
+url: http://www.gutenberg.org/ebooks/29574
